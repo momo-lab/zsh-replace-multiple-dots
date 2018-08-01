@@ -1,2 +1,2 @@
 # zsh-replace-multiple-dots
- This zsh plugin converts "..." to "../ .."
+ This zsh plugin converts "..." to "../.."
